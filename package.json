@@ -2,7 +2,7 @@
   "name": "butopen-web-components-tailwind-starter-kit",
   "version": "1.0.1",
   "scripts": {
-    "start": "vite dev --host",
+    "start": "vite preview",
     "dev": "vite dev --host",
     "build": "vite build",
     "lint": "eslint src --fix"
@@ -16,6 +16,5 @@
     "vite": "^3.1.8",
     "sass": "^1.55.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
